@@ -10,5 +10,7 @@ int main()
     printf("SUB = %d\n", sub);
 
     printf("HELLOW WORLD\n");
+
+    printf("MY TEACHERS NAME IS JOY KARMOKER\n");
     return 0;
 }
